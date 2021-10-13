@@ -20,3 +20,7 @@ I took the quiz and I got 6 out of 10 correct
 ## Video 4
 
 I was introduced to the project where we will a code that will make a "Band Name Generator" I played with the program
+
+## Video 5 
+
+Created a Repl.it account and forked day-1 printing start. I printed the classic "hello world". Learned about strings, which are basically "string of characters". To print these strings they have to be inside the print statement in quotation marks. Also learned about Stackoverflow, troubleshooting and looking for exceptions. We can find solutions to common issues here. 
