@@ -28,3 +28,8 @@ Created a Repl.it account and forked day-1 printing start. I printed the classic
 ## Video 6
 
 Participated in an exercise using the print statement. Printed the text "What to print". 
+
+## Video 7
+
+Learned about string manipulation. Learned about using the backslash "\n" to create a new line when printing a string multiple times. With concat we can also use it to combine two strings. 
+Indentation error: Be careful about indentation errors in Python. Python doesn't use semicolon but relies on indentation to figure out where code starts and ends. Code intelligence allows us to hover over the code and it tells you what error you have. 
