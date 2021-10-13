@@ -57,3 +57,7 @@ Made an exercise about changing the contents of two variables. Using a third var
 ## Video 13
 
 Make the code readable and make sure that the name you choose for your variables is meaningful. The syntax for variable name: variables cannot start with numbers, no spaces, it's preferred that they use the snake case system for naming convention. The variable has to be clearly defined if not not you will get an error. Variable naming must be consistent. 
+
+## Quiz 2
+
+I got a 3 out of 3 result on the quiz
