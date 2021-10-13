@@ -45,3 +45,7 @@ input function allows user to enter a prompt. Also learned the difference betwee
 ## Video 10
 
 Ran a function that calculates the length of a name and prints it. It passed all test cases. This code has been uploaded as well. 
+
+## Video 11
+
+A variable is able to save the users input. This is useful for future use in the code. 
