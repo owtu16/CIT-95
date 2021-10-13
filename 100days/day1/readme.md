@@ -65,3 +65,7 @@ I got a 3 out of 3 result on the quiz
 ## Video 14
 
 Implemented the band name generator exercise. That will also be uploaded. 
+
+## Video 15
+
+Completed the first day. It was a good refresher on all of this!
