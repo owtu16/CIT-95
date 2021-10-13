@@ -24,3 +24,7 @@ I was introduced to the project where we will a code that will make a "Band Name
 ## Video 5 
 
 Created a Repl.it account and forked day-1 printing start. I printed the classic "hello world". Learned about strings, which are basically "string of characters". To print these strings they have to be inside the print statement in quotation marks. Also learned about Stackoverflow, troubleshooting and looking for exceptions. We can find solutions to common issues here. 
+
+## Video 6
+
+Participated in an exercise using the print statement. Printed the text "What to print". 
