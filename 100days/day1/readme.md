@@ -33,3 +33,7 @@ Participated in an exercise using the print statement. Printed the text "What to
 
 Learned about string manipulation. Learned about using the backslash "\n" to create a new line when printing a string multiple times. With concat we can also use it to combine two strings. 
 Indentation error: Be careful about indentation errors in Python. Python doesn't use semicolon but relies on indentation to figure out where code starts and ends. Code intelligence allows us to hover over the code and it tells you what error you have. 
+
+## Video 8
+
+Fixed 4 print statement bugs. First was missing the starting quatation mark, the second one the plus sign had to be wrapped in single quatation marks. The third there was an indentation error. The fourth was missing a closing parantheses. 
