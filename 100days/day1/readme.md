@@ -53,3 +53,7 @@ A variable is able to save the users input. This is useful for future use in the
 ## Video 12
 
 Made an exercise about changing the contents of two variables. Using a third variable I was able to temporarily store the contents of a then switch the contents
+
+## Video 13
+
+Make the code readable and make sure that the name you choose for your variables is meaningful. The syntax for variable name: variables cannot start with numbers, no spaces, it's preferred that they use the snake case system for naming convention. The variable has to be clearly defined if not not you will get an error. Variable naming must be consistent. 
