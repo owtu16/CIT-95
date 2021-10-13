@@ -61,3 +61,7 @@ Make the code readable and make sure that the name you choose for your variables
 ## Quiz 2
 
 I got a 3 out of 3 result on the quiz
+
+## Video 14
+
+Implemented the band name generator exercise. That will also be uploaded. 
