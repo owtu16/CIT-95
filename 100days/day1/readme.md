@@ -41,3 +41,7 @@ Fixed 4 print statement bugs. First was missing the starting quatation mark, the
 ## Video 9
 
 input function allows user to enter a prompt. Also learned the difference between the input function and the print function. Using print and input function together we can concatinate strings together. For example: "Hello user" if user is the string that the user enters. Learned as well about Thony software, and how it steps into the code. We can see the code run step by step. Commenting into the code can be done by using the pound sign. Commenting on the code helps read what is going on. Ctrl + / helps to comment out single lines
+
+## Video 10
+
+Ran a function that calculates the length of a name and prints it. It passed all test cases. This code has been uploaded as well. 
