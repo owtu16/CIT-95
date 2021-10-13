@@ -16,3 +16,7 @@ Tips on looking at the videos on another screen and coding on another one. The o
 ## Quiz 1
 
 I took the quiz and I got 6 out of 10 correct
+
+## Video 4
+
+I was introduced to the project where we will a code that will make a "Band Name Generator" I played with the program
