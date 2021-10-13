@@ -49,3 +49,7 @@ Ran a function that calculates the length of a name and prints it. It passed all
 ## Video 11
 
 A variable is able to save the users input. This is useful for future use in the code. 
+
+## Video 12
+
+Made an exercise about changing the contents of two variables. Using a third variable I was able to temporarily store the contents of a then switch the contents
