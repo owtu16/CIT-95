@@ -12,3 +12,7 @@ Downloading the course pledge and signing it for myself to pledge for 100 days o
 ## Video 3
 
 Tips on looking at the videos on another screen and coding on another one. The other tip is to have a python cheat sheet. Keeping a motivated attitude, she created a 2 hour "study-with-me" vide. When learning new programming concepts, it's important to create notes. She created a coding concept notes. She also recommends using Cornell notes. She recommends staying motivated with "motivational wallpapers" that she created. There's a 100 days of code poster that she wants us to print out where we can keep track of our work. 
+
+## Quiz 1
+
+I took the quiz and I got 6 out of 10 correct
