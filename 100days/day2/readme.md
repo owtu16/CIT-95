@@ -12,3 +12,7 @@ Learned about data types and the error that we can't get from them. Played aroun
 ## Quiz 3
 
 I took the quiz and got 3/3
+
+## Video 18
+
+The video is talking about typeError and how different functions don't like certain inputs. We are looking into how to prevent typeErrors, this is by using the function type(), this will return the type: whether it could be string, integet, etc. We can also do type conversion, what to do if you want to turn an integer into a string. Using the function str() it's possible to turn an integer type into a string. 
