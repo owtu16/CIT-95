@@ -44,3 +44,7 @@ I got 1 / 3 correct
 ## Video 24
 
 worked on the final, completed and tested my code
+
+## Video 25
+
+I feel great about this course and I am learning a lot. I didn't know about f-string, other things so far have been a refresher to me. 
