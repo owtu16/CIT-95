@@ -32,3 +32,7 @@ I wrote my own attempt for the BMI calculation and then practiced with Angela's 
 ## Video 22
 
 learned about rounding float numbers, printing types, addition, subtraction, multiplication and division shortcuts. And printing with f-string, this way we don't have to worry about converting the data is we are using an f-string. 
+
+## Video 23
+
+I worked on the exercise and my program ran successfully. I looked at Angela's solution afterwards and found both of us had the same answers. 
