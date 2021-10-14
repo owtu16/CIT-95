@@ -28,3 +28,7 @@ Learned about the order of operation with Python using PEMDAS
 ## Video 21
 
 I wrote my own attempt for the BMI calculation and then practiced with Angela's solution.
+
+## Video 22
+
+learned about rounding float numbers, printing types, addition, subtraction, multiplication and division shortcuts. And printing with f-string, this way we don't have to worry about converting the data is we are using an f-string. 
