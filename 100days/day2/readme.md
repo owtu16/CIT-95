@@ -20,3 +20,7 @@ The video is talking about typeError and how different functions don't like cert
 ## Video 19
 
 Worked on an interactive exercise where I take one input (2-digit number) and these numbers are added (35 becomes 3 + 5 = 8)
+
+## Video 20
+
+Learned about the order of operation with Python using PEMDAS
