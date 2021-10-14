@@ -24,3 +24,7 @@ Worked on an interactive exercise where I take one input (2-digit number) and th
 ## Video 20
 
 Learned about the order of operation with Python using PEMDAS
+
+## Video 21
+
+I wrote my own attempt for the BMI calculation and then practiced with Angela's solution.
